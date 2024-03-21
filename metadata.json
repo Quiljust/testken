@@ -2,5 +2,11 @@
     "name": "PEPAZO",
     "symbol": "PEPAZO",
     "description": "Pepazo ultra mega coin",
-    "image": "https://quiljust.github.io/testken/pepazo.png"
+    "image": "https://quiljust.github.io/testken/pepazo.png",
+    "extensions": {
+        "website": "https://devox.me//",
+        "twitter": "https://twitter.com/AnonBlueArts",
+        "telegram": "https://t.me/+cCQ_ahHFbG42MzBh",
+        "discord": ""
   }
+}
